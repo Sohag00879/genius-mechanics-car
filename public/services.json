@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "name": "ENGINE DIAGNOSTIC",
+      "price": "300",
+      "description": "lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum",
+      "img": "https://media.istockphoto.com/photos/hands-of-car-mechanic-picture-id490048372?s=612x612"
+    },
+    {
+      "id": 2,
+      "name": "WHILE ALIGNMENT",
+      "price": "300",
+      "description": "lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum",
+      "img": "https://media.istockphoto.com/photos/young-man-using-a-tablet-in-a-mechanics-workshop-picture-id467709538?s=612x612"
+    },
+    {
+      "id": 3,
+      "name": "ENGINE DIAGNOSTIC",
+      "price": "300",
+      "description": "lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum",
+      "img": "https://media.istockphoto.com/photos/proud-female-auto-mechanic-picture-id488212234?s=612x612"
+    },
+    {
+      "id": 4,
+      "name": "ENGINE DIAGNOSTIC",
+      "price": "300",
+      "description": "lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum",
+      "img": "https://media.istockphoto.com/photos/the-car-mechanic-is-changing-the-tire-picture-id1137474283?s=612x612"
+    },
+    {
+      "id": 5,
+      "name": "ENGINE DIAGNOSTIC",
+      "price": "300",
+      "description": "lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum",
+      "img": "https://media.istockphoto.com/photos/happy-auto-mechanic-and-his-manager-greeting-in-a-repair-shop-picture-id1248192306?s=612x612"
+    },
+    {
+      "id": 6,
+      "name": "ENGINE DIAGNOSTIC",
+      "price": "300",
+      "description": "lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum lorem ipusm lorem ispum",
+      "img": "https://media.istockphoto.com/photos/automotive-specialist-adjusting-an-engine-picture-id155358028?s=612x612"
+    }
+  ]

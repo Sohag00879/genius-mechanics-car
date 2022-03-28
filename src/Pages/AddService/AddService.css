@@ -1,0 +1,21 @@
+
+.add-service form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-service form input, textarea {
+    width: 40%;
+    margin-bottom: 10px;
+}
+
+
+/* avabeo sohoje width set kore jay and center e any jay */
+/* .add-service form {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    margin: auto;
+} */
